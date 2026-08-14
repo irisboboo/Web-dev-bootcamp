@@ -26,6 +26,7 @@ h1{
     padding: 10px;
 }
 .card button:hover{
-    background-color: burlywood;
+    background-color: black;
     cursor: pointer;
+    color: white;
 }
